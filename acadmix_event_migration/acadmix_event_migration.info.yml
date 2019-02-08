@@ -1,0 +1,8 @@
+name: 'Acadmix Event Migration'
+type: module
+description: 'Import/Migrate data from CSV into Acadmix Event Content'
+core: 8.x
+package: 'Acadmix Migration'
+dependencies:
+  - migrate_tools
+  - acadmix_event
